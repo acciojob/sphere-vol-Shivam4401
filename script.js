@@ -8,7 +8,7 @@ function volume_sphere(e) {
 		ans.value = v;
 	}
 	else{
-		ans.textContent ="";
+		ans.value ="NaN";
 	}
 } 
 
